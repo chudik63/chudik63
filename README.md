@@ -1,4 +1,4 @@
-![Иллюстрация к проекту](https://github.com/chudik63/chudik63/blob/main/image.jpg)
+![image](https://github.com/chudik63/chudik63/blob/main/image.jpg)
 
 ###
 
