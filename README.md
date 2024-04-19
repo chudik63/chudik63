@@ -1,6 +1,8 @@
 <div align="center">
-   <img height="360" width="640" src="https://github.com/chudik63/chudik63/blob/main/gif2.gif">
+   <img height="360" width="640" src="https://github.com/chudik63/chudik63/blob/main/gif.gif">
 </div>
+
+###
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chudik63&locale=en&hide_title=false&layout=compact&card_width=320&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
