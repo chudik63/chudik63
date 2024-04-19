@@ -1,11 +1,11 @@
 <div align="center">
-   <img height="360" width="640" src="https://github.com/chudik63/chudik63/blob/main/gif1.gif">
+   <img height="360" width="640" src="https://github.com/chudik63/chudik63/blob/main/gif.gif">
 </div>
 
 ###
 
 <p align="left"> 
-   <img src="https://skillicons.dev/icons?i=go,c,cpp,py,docker,debian" />
+   <img src="https://skillicons.dev/icons?i=go,c,cpp,docker,py,debian" />
    <img height="55" width="55" src="https://github.com/chudik63/chudik63/blob/main/cats.gif">
 </p>
 
