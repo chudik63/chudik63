@@ -1,5 +1,5 @@
-<div>
-   <img src="https://github.com/chudik63/chudik63/blob/main/giff.gif">
+<div align="center">
+   <img src="https://github.com/chudik63/chudik63/blob/main/gif.gif">
 </div>
 
 ###
