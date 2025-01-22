@@ -1,4 +1,7 @@
 ###
+<div align="center">
+   <img height="320" width="640" src="https://github.com/chudik63/chudik63/blob/main/gif.gif">
+</div>
 
 <p align="center"> 
    <img src="https://skillicons.dev/icons?i=go,docker,postgres,redis,kafka,nginx,ubuntu,bash,postman">
