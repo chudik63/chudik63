@@ -4,7 +4,7 @@
 </div>
 
 <p align="center"> 
-   <img src="https://skillicons.dev/icons?i=go,docker,kubernetes,postgres,redis,kafka,rabbitmq,thanos,prometheus,grafana,nginx,graphql,ubuntu">
+   <img src="https://skillicons.dev/icons?i=go,docker,kubernetes,postgres,redis,kafka,rabbitmq,prometheus,grafana,nginx,graphql,ubuntu">
 </p>
 
 #
