@@ -4,8 +4,7 @@
 </div>
 
 <p align="center"> 
-   <img src="https://skillicons.dev/icons?i=go,docker,kubernetes,postgres,redis,kafka,rabbitmq,prometheus,grafana,nginx,graphql,ubuntu,postman">
-   <img height="55" width="55" src="https://github.com/chudik63/chudik63/blob/main/cats.gif">
+   <img src="https://skillicons.dev/icons?i=go,docker,kubernetes,postgres,redis,kafka,rabbitmq,thanos,prometheus,grafana,nginx,graphql,ubuntu">
 </p>
 
 #
